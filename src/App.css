@@ -28,6 +28,22 @@
   color: #61dafb;
 }
 
+<<<<<<< HEAD
+=======
+.Header{
+  height: 20%;
+  margin: 10%;
+}
+.Body{
+  height: 60%;
+  margin: 10%;
+}
+.Footer{
+  height: 20%;
+  margin: 10%;
+}
+
+>>>>>>> up date table
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
